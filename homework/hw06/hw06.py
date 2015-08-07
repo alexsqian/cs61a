@@ -8,6 +8,8 @@ class Link:
     5
     >>> s
     Link(3, Link(4, Link(5)))
+
+    
     """
     empty = ()
 
